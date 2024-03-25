@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="350dp"
+    android:layout_height="400dp"
+    android:background="@drawable/hardware_background">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hardware"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="24sp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                />
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="#ffff"
+                android:visibility="visible"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="☻ Key Points :"
+                android:textSize="22sp"
+                android:textColor="@color/white"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Windows Server , Control Panel"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="15dp"
+                android:textColor="#fff"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Windows Networking"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- System Installation"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Computer Sales Services"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- BIOS Setting"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Computer Assembling"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Computer Disassembling"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Printer Installation"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Printer Troubleshooting"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- N-Computing Service"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Networking"
+                android:textSize="22sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginBottom="10dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

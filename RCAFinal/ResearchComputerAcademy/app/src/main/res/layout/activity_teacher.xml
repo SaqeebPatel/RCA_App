@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeacherActivity"
+
+    android:orientation="vertical">
+
+   <androidx.appcompat.widget.Toolbar
+       android:layout_width="match_parent"
+       android:layout_height="?attr/actionBarSize"
+       android:id="@+id/toolbar_teacher"
+       android:theme="@style/ThemeOverlay.AppCompat.Dark"
+       android:background="@color/design_default_color_primary_dark"/>
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:id="@+id/l1"
+       android:background="@drawable/back">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+             android:id="@+id/teacher_image_row"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/teacher_name_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/teacher_email_row"
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/teacher_post_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal"
+          android:padding="16dp"
+          android:weightSum="2"
+          android:layout_marginTop="10dp"
+          android:background="#fff">
+
+
+         <de.hdodenhof.circleimageview.CircleImageView
+
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginStart="30dp"
+             android:src="@drawable/student" />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="16dp"
+             android:layout_gravity="center_vertical"
+             android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Teacher Name"
+                android:textColor="#000"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:textColor="#000"
+                android:layout_height="wrap_content"
+                android:text="Education"
+                android:textSize="18sp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="Which courses do these teach"
+                android:textSize="18sp" />
+
+
+         </LinearLayout>
+
+      </LinearLayout>
+   </LinearLayout>
+   </ScrollView>
+   </LinearLayout>

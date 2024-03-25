@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity"
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar_about"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark"
+            android:background="@color/design_default_color_primary_dark"/>
+
+
+        <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:paddingHorizontal="40dp"
+        android:src="@drawable/rcaicon"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/adamina"
+            android:justificationMode="inter_word"
+            android:padding="16dp"
+            android:text="Research computer academy is a private computer coaching class whcih is located in Ketkale Nagar, lane no 3, near  Marene High School, Ichalkaranji (Main Branch) and the 2nd branch is located near Swami Apartment, Indira Colony, Ichalkaranji."
+            android:textAlignment="viewStart"
+            android:textColor="#000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mr. Abhijeet Dattatray Kondekar (M.Com) is the founder of Research Computer Academy. RCA is strated on 15th August 2013 and it has completed over 5000 batches till today's date. RCA teaches 455 students per day with thier 12 educated staff members."
+            android:textSize="18sp"
+            android:textColor="#000"
+
+            android:padding="16dp"
+            android:textAlignment="viewStart"
+            android:justificationMode="inter_word"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

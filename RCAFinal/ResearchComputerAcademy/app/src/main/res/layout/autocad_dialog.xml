@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="350dp"
+    android:layout_height="500dp"
+    android:background="@drawable/autocad_background">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AUTO CAD"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="24sp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                />
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="#ffff"
+                android:visibility="visible"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="☻ 2D :"
+                android:textSize="22sp"
+                android:textColor="@color/white"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Auto Cad Interface Overview"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="15dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Draw , Modify"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Draw , Edit and Display Commands"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Snap Setting"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Unit Concepts"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Layer Management"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Gradient Pattern Style"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- 2D Plan"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="☻ 3D :"
+                android:textSize="22sp"
+                android:textColor="@color/white"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- 3D Modelling Concepts In Auto Cad"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="15dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Solid Modelling And Editing"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Orthographic Drawings"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Isometric Drawings"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- View Ports Concepts"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Camera Setting"
+                android:textSize="18sp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:layout_marginBottom="10dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

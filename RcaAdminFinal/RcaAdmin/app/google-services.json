@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "681253607571",
+    "firebase_url": "https://research-computer-academy-default-rtdb.firebaseio.com",
+    "project_id": "research-computer-academy",
+    "storage_bucket": "research-computer-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681253607571:android:bd4bededca8cd0cbbcd566",
+        "android_client_info": {
+          "package_name": "com.empire.rcaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681253607571-mvoif2mn3mkd5f1u8heao3uqnent6te3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIxFZ-YE3OtD3Wo1cM4nCnyCX1KocCdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681253607571-mvoif2mn3mkd5f1u8heao3uqnent6te3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681253607571:android:57b5a4c0eda78f01bcd566",
+        "android_client_info": {
+          "package_name": "com.empire.researchcomputeracademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681253607571-mvoif2mn3mkd5f1u8heao3uqnent6te3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIxFZ-YE3OtD3Wo1cM4nCnyCX1KocCdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681253607571-mvoif2mn3mkd5f1u8heao3uqnent6te3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

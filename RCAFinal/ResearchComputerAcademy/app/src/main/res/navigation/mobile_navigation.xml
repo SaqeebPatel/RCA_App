@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_home"
+    android:id="@+id/bottom_nav_menu">
+
+
+
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.empire.researchcomputeracademy.User.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_course"
+            app:destination="@id/navigation_course" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_notice"
+        android:name="com.empire.researchcomputeracademy.User.NoticeFragment"
+        android:label="Notice"
+        tools:layout="@layout/fragment_notice">
+        <action
+            android:id="@+id/action_navigation_notice_to_navigation_feedback"
+            app:destination="@id/navigation_feedback" />
+    </fragment>
+
+
+
+    <fragment
+        android:id="@+id/navigation_feedback"
+        android:name="com.empire.researchcomputeracademy.User.FeedbackFragment"
+        android:label="Feedback"
+        tools:layout="@layout/fragment_feedback">
+        <action
+            android:id="@+id/action_navigation_feedback_to_navigation_profile"
+            app:destination="@id/navigation_profile" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/navigation_course"
+        android:name="com.empire.researchcomputeracademy.User.FeedbackFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_course">
+        <action
+            android:id="@+id/action_navigation_course_to_navigation_notice"
+            app:destination="@id/navigation_notice" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.empire.researchcomputeracademy.User.ProfileFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_course"/>
+
+</navigation>

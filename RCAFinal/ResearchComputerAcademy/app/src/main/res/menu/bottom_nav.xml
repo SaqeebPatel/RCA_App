@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+
+    <item android:id="@+id/navigation_notice"
+        android:icon="@drawable/ic_baseline_photo_album_24"
+        android:title="Notice"/>
+
+  <item android:id="@+id/navigation_feedback"
+        android:icon="@drawable/ic_baseline_event_note_24"
+        android:title="Feedback"/>
+
+<!--  <item android:id="@+id/navigation_profile"-->
+<!--       android:icon="@drawable/ic_baseline_faculty_circle_24"-->
+<!--       android:title="Profile"/>-->
+
+    <!--   <item android:id="@+id/navigation_course"
+        android:icon="@drawable/ic_baseline_speaker_group_24"
+        android:title="Courses"/>
+       -->
+
+</menu>
