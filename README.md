@@ -1,19 +1,28 @@
-# college application
+# Computer Class application
 
 # Preview:
-# User App
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/dc814698-36f7-4da4-8f2f-bf93b5eb42ea" alt="Splash Screen" width="98" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/2f74cdd0-e731-4d3d-9f7c-b30cab0d40ef" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/9af5c5db-5660-4090-97b7-47ec483c8036 " alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/6ef26452-9135-458e-95d1-ab56b11e7d99" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/061f4f21-f384-43e2-aa6d-643d5823b2d6" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/0146748c-da6e-4d72-a025-47a1eea70c61" alt="Splash Screen" width="100" height="200" />
+# User App:
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/9e415e39-0dd8-4798-af37-1abc36400903" alt="Splash Screen" width="98" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/4dd3a946-d4ae-4843-a3e3-120b3639e13a" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/cacfc426-58ec-4b16-b0b1-ff3e41aa1963" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/7306d1a5-9d7b-454f-a0e4-bed05a2ba86d" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/bb78c756-9489-4c62-910c-8c17b77a1773" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/5846a8a1-201e-4bc8-ae9d-9a955e5eae6c" alt="Splash Screen" width="100" height="200" />
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/9ae909d2-909e-4a59-9afe-0792ad71b3b4" alt="Splash Screen" width="100" height="200" />
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/74ed7623-24c4-4308-a217-3a72c12bf6c2" alt="Splash Screen" width="100" height="200" />
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/8769f5ea-0980-4310-b68e-7f6862725f3f" alt="Splash Screen" width="100" height="200" />
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/6bf660d0-9c36-49c6-b37b-6d35a58202e" alt="Splash Screen" width="100" height="200" />
 
-# admin App
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/e108f5bf-0d04-4c13-9792-a91983205fbf" alt="Splash Screen" width="98" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/6e64bd97-c180-45c5-ac05-c24be08f6dae" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/fc51f0cb-bea0-4901-81d9-a94f1bdab32f" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/ebb38151-70c8-4663-9650-5a97a224d554" alt="Splash Screen" width="100" height="200" /> 
-<img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/cdd969d4-2e18-4a61-a53a-d4f97b191c47" alt="Splash Screen" width="100" height="200" /> 
+# admin App:
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/daadf8ae-d467-4d7b-9838-e4a615070c23" alt="Splash Screen" width="98" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/b3ce88cc-7ade-4eb3-bc00-a0bc8439565c" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/f12b7760-4a5c-4c3f-b1ca-e96531d19c35" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/03c7a2b6-c1ff-4d19-8002-7c3d1c32d8fd" alt="Splash Screen" width="100" height="200" /> 
+
+
+
+
+
+
 
 
