@@ -11,7 +11,6 @@
 <img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/9ae909d2-909e-4a59-9afe-0792ad71b3b4" alt="Splash Screen" width="100" height="200" />
 <img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/74ed7623-24c4-4308-a217-3a72c12bf6c2" alt="Splash Screen" width="100" height="200" />
 <img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/8769f5ea-0980-4310-b68e-7f6862725f3f" alt="Splash Screen" width="100" height="200" />
-<img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/6bf660d0-9c36-49c6-b37b-6d35a58202e" alt="Splash Screen" width="100" height="200" />
 
 # admin App:
 <img src="https://github.com/SaqeebPatel/RCA_App/assets/132561344/daadf8ae-d467-4d7b-9838-e4a615070c23" alt="Splash Screen" width="98" height="200" /> 
